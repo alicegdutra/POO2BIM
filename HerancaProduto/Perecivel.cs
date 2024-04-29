@@ -7,22 +7,31 @@ namespace HerancaProduto
 {
     public class Perecivel : Produto
     {
+        // Campos adicionais específicos para produtos perecíveis
         protected string dataFabricacao;
         protected string dataValidade;
         protected int lote;
 
-        public Perecivel() : base()
-        {
-            
-        }
+        // Construtor padrão
+        public Perecivel()
+        {}
 
-        public Perecivel(int codigo, string nome, double preco, string dataFabricacao, string dataValidade, int lote) : base(codigo, nome, preco) //BASE FAZ REFERENCIA A SUPERCLASSE, POR ISSO NAO COLCOA OS OUTROS PARAMETROS
+        // Construtor com parâmetros
+        public Perecivel(int codigo, string nome, double preco, string dataFabricacao, string dataValidade, int lote) : base(codigo, nome, preco) // Chama o construtor da classe base Produto com os parâmetros correspondentes
         {
+            // Inicializa os campos específicos da classe Perecivel
             DataFabricacao = dataFabricacao;
             DataValidade = dataValidade;
-            Lote = lote; 
+            Lote = lote;
         }
 
+        public void Mostrar()
+        {
+            base.Mostrar();
+            Console.WriteLine("Data de Fabricação: " + DataFabricacao + "\tData de Validade: " + DataValidade + "\tLote: " + Lote);
+        }
+
+        // Propriedades para os campos específicos
         public string DataFabricacao
         {
             get { return dataFabricacao; }
@@ -40,6 +49,5 @@ namespace HerancaProduto
             get { return lote; }
             set { lote = value; }
         }
-    
     }
 }

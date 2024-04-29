@@ -20,6 +20,11 @@ namespace HerancaProduto
             Nome = nome;
             Preco = preco;
         }
+
+        public void Mostrar()
+        {
+            Console.WriteLine("Código: " + Codigo + "\tNome: " + Nome + "\tPreço: " + Preco);
+        }
         public int Codigo
         {
             get { return codigo; }
