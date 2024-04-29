@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\GitHub\POO2BIM\HerancaProduto\bin\Debug\net6.0\HerancaProduto.exe
+C:\Users\Aluno\Documents\GitHub\POO2BIM\HerancaProduto\bin\Debug\net6.0\HerancaProduto.deps.json
+C:\Users\Aluno\Documents\GitHub\POO2BIM\HerancaProduto\bin\Debug\net6.0\HerancaProduto.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\POO2BIM\HerancaProduto\bin\Debug\net6.0\HerancaProduto.dll
+C:\Users\Aluno\Documents\GitHub\POO2BIM\HerancaProduto\bin\Debug\net6.0\HerancaProduto.pdb
+C:\Users\Aluno\Documents\GitHub\POO2BIM\HerancaProduto\obj\Debug\net6.0\HerancaProduto.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\POO2BIM\HerancaProduto\obj\Debug\net6.0\HerancaProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\POO2BIM\HerancaProduto\obj\Debug\net6.0\HerancaProduto.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO2BIM\HerancaProduto\obj\Debug\net6.0\HerancaProduto.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\POO2BIM\HerancaProduto\obj\Debug\net6.0\HerancaProduto.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO2BIM\HerancaProduto\obj\Debug\net6.0\HerancaProduto.dll
+C:\Users\Aluno\Documents\GitHub\POO2BIM\HerancaProduto\obj\Debug\net6.0\refint\HerancaProduto.dll
+C:\Users\Aluno\Documents\GitHub\POO2BIM\HerancaProduto\obj\Debug\net6.0\HerancaProduto.pdb
+C:\Users\Aluno\Documents\GitHub\POO2BIM\HerancaProduto\obj\Debug\net6.0\HerancaProduto.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\POO2BIM\HerancaProduto\obj\Debug\net6.0\ref\HerancaProduto.dll
