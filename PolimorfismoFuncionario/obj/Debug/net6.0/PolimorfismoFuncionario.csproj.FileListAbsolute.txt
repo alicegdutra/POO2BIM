@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\GitHub\POO2BIM\PolimorfismoFuncionario\bin\Debug\net6.0\PolimorfismoFuncionario.exe
+C:\Users\Aluno\Documents\GitHub\POO2BIM\PolimorfismoFuncionario\bin\Debug\net6.0\PolimorfismoFuncionario.deps.json
+C:\Users\Aluno\Documents\GitHub\POO2BIM\PolimorfismoFuncionario\bin\Debug\net6.0\PolimorfismoFuncionario.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\POO2BIM\PolimorfismoFuncionario\bin\Debug\net6.0\PolimorfismoFuncionario.dll
+C:\Users\Aluno\Documents\GitHub\POO2BIM\PolimorfismoFuncionario\bin\Debug\net6.0\PolimorfismoFuncionario.pdb
+C:\Users\Aluno\Documents\GitHub\POO2BIM\PolimorfismoFuncionario\obj\Debug\net6.0\PolimorfismoFuncionario.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\POO2BIM\PolimorfismoFuncionario\obj\Debug\net6.0\PolimorfismoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\POO2BIM\PolimorfismoFuncionario\obj\Debug\net6.0\PolimorfismoFuncionario.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO2BIM\PolimorfismoFuncionario\obj\Debug\net6.0\PolimorfismoFuncionario.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\POO2BIM\PolimorfismoFuncionario\obj\Debug\net6.0\PolimorfismoFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO2BIM\PolimorfismoFuncionario\obj\Debug\net6.0\PolimorfismoFuncionario.dll
+C:\Users\Aluno\Documents\GitHub\POO2BIM\PolimorfismoFuncionario\obj\Debug\net6.0\refint\PolimorfismoFuncionario.dll
+C:\Users\Aluno\Documents\GitHub\POO2BIM\PolimorfismoFuncionario\obj\Debug\net6.0\PolimorfismoFuncionario.pdb
+C:\Users\Aluno\Documents\GitHub\POO2BIM\PolimorfismoFuncionario\obj\Debug\net6.0\PolimorfismoFuncionario.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\POO2BIM\PolimorfismoFuncionario\obj\Debug\net6.0\ref\PolimorfismoFuncionario.dll

@@ -25,7 +25,7 @@ namespace HerancaProduto
             Lote = lote;
         }
 
-        public void Mostrar()
+        public override void Mostrar() //override sempre na classe filho
         {
             base.Mostrar();
             Console.WriteLine("Data de Fabricação: " + DataFabricacao + "\tData de Validade: " + DataValidade + "\tLote: " + Lote);
