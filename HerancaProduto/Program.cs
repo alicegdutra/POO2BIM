@@ -12,3 +12,5 @@ pe2.Mostrar();
 
 //base. - chama o método 
 //base() - chama o construtor
+// a classe derivada tem mais conteúdo que a classe base (ela busca informação e tem um diferencial
+// classe abstrata não instancia 
