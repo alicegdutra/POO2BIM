@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AbstratoCliente/1.0.0": {
+        "runtime": {
+          "AbstratoCliente.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbstratoCliente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

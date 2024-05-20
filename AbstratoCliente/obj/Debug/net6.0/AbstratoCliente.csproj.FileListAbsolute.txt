@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoCliente\obj\Debug\net6.0\AbstratoCliente.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoCliente\obj\Debug\net6.0\AbstratoCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoCliente\obj\Debug\net6.0\AbstratoCliente.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoCliente\obj\Debug\net6.0\AbstratoCliente.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoCliente\obj\Debug\net6.0\AbstratoCliente.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoCliente\bin\Debug\net6.0\AbstratoCliente.exe
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoCliente\bin\Debug\net6.0\AbstratoCliente.deps.json
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoCliente\bin\Debug\net6.0\AbstratoCliente.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoCliente\bin\Debug\net6.0\AbstratoCliente.dll
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoCliente\bin\Debug\net6.0\AbstratoCliente.pdb
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoCliente\obj\Debug\net6.0\AbstratoCliente.dll
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoCliente\obj\Debug\net6.0\refint\AbstratoCliente.dll
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoCliente\obj\Debug\net6.0\AbstratoCliente.pdb
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoCliente\obj\Debug\net6.0\AbstratoCliente.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoCliente\obj\Debug\net6.0\ref\AbstratoCliente.dll
