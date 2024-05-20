@@ -18,3 +18,13 @@ C:\xampp\htdocs\POO2BIM\PolimorfismoFuncionario\obj\Debug\net6.0\PolimorfismoFun
 C:\xampp\htdocs\POO2BIM\PolimorfismoFuncionario\obj\Debug\net6.0\PolimorfismoFuncionario.AssemblyInfoInputs.cache
 C:\xampp\htdocs\POO2BIM\PolimorfismoFuncionario\obj\Debug\net6.0\PolimorfismoFuncionario.AssemblyInfo.cs
 C:\xampp\htdocs\POO2BIM\PolimorfismoFuncionario\obj\Debug\net6.0\PolimorfismoFuncionario.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\POO2BIM\PolimorfismoFuncionario\bin\Debug\net6.0\PolimorfismoFuncionario.exe
+C:\xampp\htdocs\POO2BIM\PolimorfismoFuncionario\bin\Debug\net6.0\PolimorfismoFuncionario.deps.json
+C:\xampp\htdocs\POO2BIM\PolimorfismoFuncionario\bin\Debug\net6.0\PolimorfismoFuncionario.runtimeconfig.json
+C:\xampp\htdocs\POO2BIM\PolimorfismoFuncionario\bin\Debug\net6.0\PolimorfismoFuncionario.dll
+C:\xampp\htdocs\POO2BIM\PolimorfismoFuncionario\bin\Debug\net6.0\PolimorfismoFuncionario.pdb
+C:\xampp\htdocs\POO2BIM\PolimorfismoFuncionario\obj\Debug\net6.0\PolimorfismoFuncionario.dll
+C:\xampp\htdocs\POO2BIM\PolimorfismoFuncionario\obj\Debug\net6.0\refint\PolimorfismoFuncionario.dll
+C:\xampp\htdocs\POO2BIM\PolimorfismoFuncionario\obj\Debug\net6.0\PolimorfismoFuncionario.pdb
+C:\xampp\htdocs\POO2BIM\PolimorfismoFuncionario\obj\Debug\net6.0\PolimorfismoFuncionario.genruntimeconfig.cache
+C:\xampp\htdocs\POO2BIM\PolimorfismoFuncionario\obj\Debug\net6.0\ref\PolimorfismoFuncionario.dll
