@@ -1,22 +1,19 @@
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace AbstratoFuncionario
 {
     public class Departamento
     {
         public int Codigo { get; set; }
-
         public string Nome { get; set; }
-
         public List<Funcionario> VetF { get; set; }
 
         public Departamento(int codigo, string nome)
         {
             Codigo = codigo;
             Nome = nome;
+            VetF = new List<Funcionario>(); // Inicializando a lista aqui
         }
 
         public void Admitir(Funcionario f)
@@ -24,44 +21,36 @@ namespace AbstratoFuncionario
             VetF.Add(f);
         }
 
-        public void ListarFuncionarios()
-        {
-            System.Console.WriteLine("\nListagem do departamento: " +  Nome);
-            foreach (Funcionario f in VetF)
-                f.Mostrar();
-        }
-
         public void Demitir(int codigo)
         {
-            for (int i = 0; i < VetF.Count; i ++)
+            for (int i = 0; i < VetF.Count; i++)
             {
-                Funcionario f = VetF.ElementAt<Funcionario>(i); //pega o elemento que esta em uma determinada pos no vetor
-                if (f.Codigo == codigo)
-                    VetF.Remove(f);
+                if (VetF[i].Codigo == codigo)
+                {
+                    VetF.RemoveAt(i);
+                    break; // sair do loop após remover o funcionário
+                }
+            }
+        }
+
+        public void ListarFuncionarios()
+        {
+            Console.WriteLine($"Listagem do departamento: {Nome}");
+            foreach (Funcionario f in VetF)
+            {
+                f.Mostrar();
             }
         }
 
         public double CalcularFolha(int diasUteis)
         {
-            double folha = 0;
-            for (int i = 0; i < VetF.Count; i ++)
+            double total = 0;
+            foreach (Funcionario f in VetF)
             {
-                Funcionario f = VetF.ElementAt<Funcionario>(i); //pega o elemento que esta em uma determinada pos no vetor
-                folha += f.CalcularSalario(diasUteis);
+                total += f.CalcularSalario(diasUteis);
             }
-
-            return folha;
+            return total;
         }
-
-        public void CalcularDependentes()
-        {
-            for(int i = 0; i < VetF.Count; i++)
-            {
-                Funcionario f = VetF.ElementAt<Funcionario>(i);
-                f.CalcularTotaldependentes();
-                Console.WriteLine("Total de dependentes: " + f.CalcularTotaldependentes());
-            }
-        }
-
     }
 }
+

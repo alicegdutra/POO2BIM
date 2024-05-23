@@ -20,7 +20,7 @@ namespace AbstratoFuncionario
         
         public void Mostrar() 
         {
-            Console.WriteLine("Código - Dependente: " + Codigo + "\tNome: " + Nome + "\tIdade: " + Idade);
+            Console.WriteLine("Código: " + Codigo + "\tNome: " + Nome + "\tIdade: " + Idade);
         }       
     }
 }
