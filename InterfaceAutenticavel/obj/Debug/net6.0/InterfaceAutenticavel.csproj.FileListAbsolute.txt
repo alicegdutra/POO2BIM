@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\GitHub\POO2BIM\InterfaceAutenticavel\bin\Debug\net6.0\InterfaceAutenticavel.exe
+C:\Users\Aluno\Documents\GitHub\POO2BIM\InterfaceAutenticavel\bin\Debug\net6.0\InterfaceAutenticavel.deps.json
+C:\Users\Aluno\Documents\GitHub\POO2BIM\InterfaceAutenticavel\bin\Debug\net6.0\InterfaceAutenticavel.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\POO2BIM\InterfaceAutenticavel\bin\Debug\net6.0\InterfaceAutenticavel.dll
+C:\Users\Aluno\Documents\GitHub\POO2BIM\InterfaceAutenticavel\bin\Debug\net6.0\InterfaceAutenticavel.pdb
+C:\Users\Aluno\Documents\GitHub\POO2BIM\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\POO2BIM\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\POO2BIM\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO2BIM\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\POO2BIM\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO2BIM\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.dll
+C:\Users\Aluno\Documents\GitHub\POO2BIM\InterfaceAutenticavel\obj\Debug\net6.0\refint\InterfaceAutenticavel.dll
+C:\Users\Aluno\Documents\GitHub\POO2BIM\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.pdb
+C:\Users\Aluno\Documents\GitHub\POO2BIM\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\POO2BIM\InterfaceAutenticavel\obj\Debug\net6.0\ref\InterfaceAutenticavel.dll

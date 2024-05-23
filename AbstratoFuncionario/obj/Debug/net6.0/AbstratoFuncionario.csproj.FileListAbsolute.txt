@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoFuncionario\bin\Debug\net6.0\AbstratoFuncionario.exe
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoFuncionario\bin\Debug\net6.0\AbstratoFuncionario.deps.json
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoFuncionario\bin\Debug\net6.0\AbstratoFuncionario.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoFuncionario\bin\Debug\net6.0\AbstratoFuncionario.dll
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoFuncionario\bin\Debug\net6.0\AbstratoFuncionario.pdb
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoFuncionario\obj\Debug\net6.0\AbstratoFuncionario.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoFuncionario\obj\Debug\net6.0\AbstratoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoFuncionario\obj\Debug\net6.0\AbstratoFuncionario.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoFuncionario\obj\Debug\net6.0\AbstratoFuncionario.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoFuncionario\obj\Debug\net6.0\AbstratoFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoFuncionario\obj\Debug\net6.0\AbstratoFuncionario.dll
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoFuncionario\obj\Debug\net6.0\refint\AbstratoFuncionario.dll
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoFuncionario\obj\Debug\net6.0\AbstratoFuncionario.pdb
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoFuncionario\obj\Debug\net6.0\AbstratoFuncionario.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\POO2BIM\AbstratoFuncionario\obj\Debug\net6.0\ref\AbstratoFuncionario.dll
