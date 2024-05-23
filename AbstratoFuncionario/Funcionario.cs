@@ -11,14 +11,14 @@ namespace AbstratoFuncionario
         public string Nome { get; set; }
         public double Salario { get; set; }
 
-        public List<Dependente> VetD { get; set; }
+        public List<Dependente> VetDp { get; set; }
         
         public Funcionario(int codigo, string nome, double salario)
         {
             Codigo = codigo;
             Nome = nome;
             Salario = salario;
-            VetD = new List<Dependente>(); // Inicializando a lista aqui
+            VetDp = new List<Dependente>(); // Inicializando a lista aqui
         }
 
         public virtual void Mostrar()
@@ -30,24 +30,24 @@ namespace AbstratoFuncionario
 
         public void Adicionar(Dependente d)
         {
-            VetD.Add(d);
+            VetDp.Add(d);
         }
 
         public void ListarDependente()
         {
             Console.WriteLine("\nListagem do funcionário: " + Nome);
-            foreach (Dependente d in VetD)
+            foreach (Dependente d in VetDp)
                 d.Mostrar();
         }
 
         public void Excluir(int codigo)
         {
-            for (int i = 0; i < VetD.Count; i++)
+            for (int i = 0; i < VetDp.Count; i++)
             {
-                Dependente d = VetD.ElementAt(i);
+                Dependente d = VetDp.ElementAt(i);
                 if (d.Codigo == codigo)
                 {
-                    VetD.Remove(d);
+                    VetDp.Remove(d);
                     break;
                 }
             }
@@ -57,7 +57,7 @@ namespace AbstratoFuncionario
         {
             int totalDependentes = 0;
 
-            foreach (var dependente in VetD)
+            foreach (var dependente in VetDp)
             {
                 totalDependentes++;
             }
