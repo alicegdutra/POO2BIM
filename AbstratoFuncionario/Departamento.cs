@@ -52,5 +52,16 @@ namespace AbstratoFuncionario
 
             return folha;
         }
+
+        public void CalcularDependentes()
+        {
+            for(int i = 0; i < VetF.Count; i++)
+            {
+                Funcionario f = VetF.ElementAt<Funcionario>(i);
+                f.CalcularTotaldependentes();
+                Console.WriteLine("Total de dependentes: " + f.CalcularTotaldependentes());
+            }
+        }
+
     }
 }

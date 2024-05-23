@@ -20,3 +20,9 @@ d2.Admitir(c2);
 d2.Demitir(4);
 d2.ListarFuncionarios();
 System.Console.WriteLine($"Total {d2.CalcularFolha(30):c}");
+
+
+Dependente dep1 = new Dependente (1, "Alice Gimenez Dutra", 19);
+a1.Adicionar(dep1);
+Dependente dep2 = new Dependente (2, "Gabriela Gimenez Dutra", 15);
+a2.Adicionar(dep2);
