@@ -17,10 +17,10 @@ namespace AbstratoFuncionario
             Nome = nome;
             Idade = idade;
         }
-        
-        public void Mostrar() 
+
+        public void Mostrar()
         {
             Console.WriteLine("Código: " + Codigo + "\tNome: " + Nome + "\tIdade: " + Idade);
-        }       
+        }
     }
 }
