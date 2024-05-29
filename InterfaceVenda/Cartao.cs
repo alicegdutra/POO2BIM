@@ -1,14 +1,25 @@
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace InterfaceVenda
+
+namespace InterfaceVendas
 {
-    public class Cartao
+    public class Cartao : Pagamento
     {
-        private string DadosTransacao { get; set; }
-        private int ResultadoTransacao { get; set; }
+        public string DadosTransacao { get; set; }
+        public int ResultadoTransacao { get; set; }
+
+        public Cartao(double valor, string dadosTransacao, int resultadoTransacao) : base(valor)
+        {
+            DadosTransacao = dadosTransacao;
+            ResultadoTransacao = resultadoTransacao;
+        }
+
+        public override void ProcessarPagamento()
+        {
+            Console.WriteLine($"Pagamento em cartão no valor de {Valor:C} processado com resultado {ResultadoTransacao}.");
+        }
     }
 }

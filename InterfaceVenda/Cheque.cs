@@ -1,15 +1,24 @@
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace InterfaceVenda
+namespace InterfaceVendas
 {
-    public class Cheque
+    public class Cheque : Pagamento
     {
-        private long Numero { get; set; }
-        private int DataDeposito { get; set; }
-        private int Situacao { get; set; }
+        public long Numero { get; set; }
+        public DateTime DataDeposito { get; set; }
+
+        public Cheque(double valor, long numero, DateTime dataDeposito) : base(valor)
+        {
+            Numero = numero;
+            DataDeposito = dataDeposito;
+        }
+
+        public override void ProcessarPagamento()
+        {
+            Console.WriteLine($"Pagamento em cheque no valor de {Valor:C}, número {Numero}, data de depósito {DataDeposito:dd/MM/yyyy} processado.");
+        }
     }
 }

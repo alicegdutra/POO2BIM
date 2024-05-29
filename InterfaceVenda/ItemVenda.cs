@@ -1,14 +1,29 @@
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace InterfaceVenda
+
+namespace InterfaceVendas
 {
     public class ItemVenda
     {
-        private int Quantidade { get; set; }
-        private double Preco { get; set; }
+        public Produto Produto { get; set; }
+        public int Quantidade { get; set; }
+        public double Preco
+        {
+            get { return Produto.Preco * Quantidade; }
+        }
+
+        public ItemVenda(Produto produto, int quantidade)
+        {
+            Produto = produto;
+            Quantidade = quantidade;
+        }
+
+        public string Mostrar()
+        {
+            return $"Produto: {Produto.Nome}, Quantidade: {Quantidade}, Preço: {Preco:C}";
+        }
     }
 }

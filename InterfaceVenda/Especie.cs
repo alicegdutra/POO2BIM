@@ -1,13 +1,18 @@
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace InterfaceVenda
+
+namespace InterfaceVendas
 {
-    public class Especie
+    public class Especie : Pagamento
     {
-        public double Quantia { get; set; }
+        public Especie(double valor) : base(valor) { }
+
+        public override void ProcessarPagamento()
+        {
+            Console.WriteLine($"Pagamento em espécie no valor de {Valor:C} processado.");
+        }
     }
 }
