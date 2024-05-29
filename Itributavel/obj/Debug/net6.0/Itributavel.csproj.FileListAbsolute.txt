@@ -1,0 +1,15 @@
+C:\xampp\htdocs\POO2BIM\Itributavel\bin\Debug\net6.0\Itributavel.exe
+C:\xampp\htdocs\POO2BIM\Itributavel\bin\Debug\net6.0\Itributavel.deps.json
+C:\xampp\htdocs\POO2BIM\Itributavel\bin\Debug\net6.0\Itributavel.runtimeconfig.json
+C:\xampp\htdocs\POO2BIM\Itributavel\bin\Debug\net6.0\Itributavel.dll
+C:\xampp\htdocs\POO2BIM\Itributavel\bin\Debug\net6.0\Itributavel.pdb
+C:\xampp\htdocs\POO2BIM\Itributavel\obj\Debug\net6.0\Itributavel.csproj.AssemblyReference.cache
+C:\xampp\htdocs\POO2BIM\Itributavel\obj\Debug\net6.0\Itributavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\POO2BIM\Itributavel\obj\Debug\net6.0\Itributavel.AssemblyInfoInputs.cache
+C:\xampp\htdocs\POO2BIM\Itributavel\obj\Debug\net6.0\Itributavel.AssemblyInfo.cs
+C:\xampp\htdocs\POO2BIM\Itributavel\obj\Debug\net6.0\Itributavel.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\POO2BIM\Itributavel\obj\Debug\net6.0\Itributavel.dll
+C:\xampp\htdocs\POO2BIM\Itributavel\obj\Debug\net6.0\refint\Itributavel.dll
+C:\xampp\htdocs\POO2BIM\Itributavel\obj\Debug\net6.0\Itributavel.pdb
+C:\xampp\htdocs\POO2BIM\Itributavel\obj\Debug\net6.0\Itributavel.genruntimeconfig.cache
+C:\xampp\htdocs\POO2BIM\Itributavel\obj\Debug\net6.0\ref\Itributavel.dll

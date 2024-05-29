@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\POO2BIM\\Itributavel\\Itributavel.csproj": {}
+    "C:\\xampp\\htdocs\\POO2BIM\\InterfaceVenda\\InterfaceVenda.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\POO2BIM\\Itributavel\\Itributavel.csproj": {
+    "C:\\xampp\\htdocs\\POO2BIM\\InterfaceVenda\\InterfaceVenda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\POO2BIM\\Itributavel\\Itributavel.csproj",
-        "projectName": "Itributavel",
-        "projectPath": "C:\\xampp\\htdocs\\POO2BIM\\Itributavel\\Itributavel.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\POO2BIM\\InterfaceVenda\\InterfaceVenda.csproj",
+        "projectName": "InterfaceVenda",
+        "projectPath": "C:\\xampp\\htdocs\\POO2BIM\\InterfaceVenda\\InterfaceVenda.csproj",
         "packagesPath": "C:\\Users\\alice\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\POO2BIM\\Itributavel\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\POO2BIM\\InterfaceVenda\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alice\\AppData\\Roaming\\NuGet\\NuGet.Config"
