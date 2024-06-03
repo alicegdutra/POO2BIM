@@ -25,56 +25,23 @@ namespace InterfaceVendas
         public double CalcularTotal()
         {
             double total = 0;
-            foreach (var item in Itens)
+            foreach (ItemVenda item in Itens)
             {
                 total += item.Preco;
             }
             return total;
         }
 
-        public void ProcessarPagamento(int opcaoPagamento)
+        public void ProcessarPagamento(Pagamento pagamento)
         {
-            Pagamento = CriarPagamento(opcaoPagamento, CalcularTotal());
+            Pagamento = pagamento;
             Pagamento.ProcessarPagamento();
-        }
-
-        private Pagamento CriarPagamento(int opcaoPagamento, double valor)
-        {
-            switch (opcaoPagamento)
-            {
-                case 1:
-                    return new Especie(valor);
-                case 2:
-                    return CriarCheque(valor);
-                case 3:
-                    return CriarCartao(valor);
-                default:
-                    return null;
-            }
-        }
-
-        private Pagamento CriarCheque(double valor)
-        {
-            Console.Write("Número do Cheque: ");
-            if (!long.TryParse(Console.ReadLine(), out long numeroCheque)) return null;
-            Console.Write("Data de Depósito (dd/MM/yyyy): ");
-            if (!DateTime.TryParse(Console.ReadLine(), out DateTime dataDeposito)) return null;
-            return new Cheque(valor, numeroCheque, dataDeposito);
-        }
-
-        private Pagamento CriarCartao(double valor)
-        {
-            Console.Write("Dados da Transação: ");
-            string dadosTransacao = Console.ReadLine();
-            Console.Write("Resultado da Transação: ");
-            if (!int.TryParse(Console.ReadLine(), out int resultadoTransacao)) return null;
-            return new Cartao(valor, dadosTransacao, resultadoTransacao);
         }
 
         public string Mostrar()
         {
             string descricaoItens = "";
-            foreach (var item in Itens)
+            foreach (ItemVenda item in Itens)
             {
                 descricaoItens += item.Mostrar() + "\n";
             }
