@@ -1,0 +1,15 @@
+C:\xampp\htdocs\POO2BIM\InterfaceVenda\obj\Debug\net6.0\InterfaceVenda.csproj.AssemblyReference.cache
+C:\xampp\htdocs\POO2BIM\InterfaceVenda\obj\Debug\net6.0\InterfaceVenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\POO2BIM\InterfaceVenda\obj\Debug\net6.0\InterfaceVenda.AssemblyInfoInputs.cache
+C:\xampp\htdocs\POO2BIM\InterfaceVenda\obj\Debug\net6.0\InterfaceVenda.AssemblyInfo.cs
+C:\xampp\htdocs\POO2BIM\InterfaceVenda\obj\Debug\net6.0\InterfaceVenda.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\POO2BIM\InterfaceVenda\bin\Debug\net6.0\InterfaceVenda.exe
+C:\xampp\htdocs\POO2BIM\InterfaceVenda\bin\Debug\net6.0\InterfaceVenda.deps.json
+C:\xampp\htdocs\POO2BIM\InterfaceVenda\bin\Debug\net6.0\InterfaceVenda.runtimeconfig.json
+C:\xampp\htdocs\POO2BIM\InterfaceVenda\bin\Debug\net6.0\InterfaceVenda.dll
+C:\xampp\htdocs\POO2BIM\InterfaceVenda\bin\Debug\net6.0\InterfaceVenda.pdb
+C:\xampp\htdocs\POO2BIM\InterfaceVenda\obj\Debug\net6.0\InterfaceVenda.dll
+C:\xampp\htdocs\POO2BIM\InterfaceVenda\obj\Debug\net6.0\refint\InterfaceVenda.dll
+C:\xampp\htdocs\POO2BIM\InterfaceVenda\obj\Debug\net6.0\InterfaceVenda.pdb
+C:\xampp\htdocs\POO2BIM\InterfaceVenda\obj\Debug\net6.0\InterfaceVenda.genruntimeconfig.cache
+C:\xampp\htdocs\POO2BIM\InterfaceVenda\obj\Debug\net6.0\ref\InterfaceVenda.dll
